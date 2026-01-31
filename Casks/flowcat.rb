@@ -1,6 +1,6 @@
 cask "flowcat" do
   version "1.4.0"
-  sha256 "1fe38f92e8ccdcb46d669ad9cc84ab79e2ecaa693b03435957763858c8e3aaa3"
+  sha256 "360b72116effb4dc0e46d0d8304ce55550482a8199b18340112694089e7b5c46"
 
   url "https://github.com/eunjae-lee/flowcat/releases/download/v#{version}/Flowcat.dmg"
   name "Flowcat"
