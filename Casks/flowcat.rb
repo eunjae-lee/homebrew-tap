@@ -1,9 +1,9 @@
 cask "flowcat" do
-  version "1.4.0"
-  sha256 "eae63186f80bf57ab5f12e1b5e46c737706f3458ade3292be54f4eefb61b7fb0"
+  version "1.21.1"
+  sha256 "e86a698f95357550bea2607afdf7e55aa582b73c1dd951172344532dbbc37fb3"
 
   url "https://github.com/eunjae-lee/homebrew-tap/releases/download/v#{version}/Flowcat.dmg"
-  name "Flowcat"
+  name "flowcat"
   desc "Terminal task manager with native macOS UI"
   homepage "https://github.com/eunjae-lee/flowcat"
 
