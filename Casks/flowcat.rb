@@ -1,6 +1,6 @@
 cask "flowcat" do
-  version "1.21.14"
-  sha256 "7877a70ba0a75e11b478d9ceef863e8b4c5086bb49bfc953f28611b29a4ca06c"
+  version "1.21.15"
+  sha256 "b065eaa98447f8728bf02d522380c847b970b30c813c96d64103c5d7c1b611a2"
 
   url "https://github.com/eunjae-lee/homebrew-tap/releases/download/flowcat-v#{version}/flowcat.dmg"
   name "flowcat"
