@@ -1,6 +1,6 @@
 cask "moa" do
-  version "0.1.1"
-  sha256 "af2a133b98fffaab4cdf0df2e2c6b95dc30cc9f229f268d15f3f7ffc09036139"
+  version "0.1.2"
+  sha256 "8cd2893279f72912b6977586c57589a9b8034d386caa8c69e96f2a2a907caab7"
 
   url "https://github.com/eunjae-lee/moa/releases/download/v#{version}/moa-#{version}-macos-aarch64.zip"
   name "moa"
